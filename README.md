@@ -24,6 +24,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 	1. For Linux: `~/.zeon`
 		1. **Note**: For Linux  `.zeon`
 		2. In ubuntu you can do a wget :
+		
 		~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
 		
 1. Download the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.1.1).
@@ -41,6 +42,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 	1. For MacOS: `~/Library/Application Support/ZEON/`
 	1. For Linux: `~/.zeon/`
 	             1. In ubuntu you can do a wget :
+		     
 		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
 		
 1. Remove all files and folders **EXCEPT** for *wallet.dat*, *zeon.conf*, *masternode.conf*, and the `backups/` folder.
