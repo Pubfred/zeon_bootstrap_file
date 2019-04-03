@@ -26,7 +26,8 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 		
 		2. In ubuntu you can do a wget :
 		
-		~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
+		  ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
+
 		
 1. Download the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.1.1).
 1. Install and run the wallet. Syncing should begin at the bootstrap's last block.
