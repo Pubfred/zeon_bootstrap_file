@@ -55,4 +55,4 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 1. Run the wallet and syncing should begin at the bootstrap's last block.
 
 
-
+![Screenshot](bootstrap_checksum.png)  
