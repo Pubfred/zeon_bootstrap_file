@@ -23,6 +23,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 	1. For MacOS: `~/Library/Application Support/ZEON`   
 	1. For Linux: `~/.zeon`
 		1. **Note**: For Linux  `.zeon`
+		
 		2. In ubuntu you can do a wget :
 		
 		~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
