@@ -14,7 +14,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 
 #### If you have *never* ran the Zeon wallet:
 
-1. Download the [latest bootstrap files](https://github.com/Pubfred/zeon_bootstrap_file/releases/tag/v1.1).
+1. Download the [latest bootstrap files](https://github.com/Pubfred/zeon_bootstrap_file/releases/tag/v1.2).
 1. Find the downloaded *bootstrap.dat* file .
 1. Move the *bootstrap.dat* file to your OS's respective data directory.
 
@@ -25,7 +25,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 	
 	             1. In ubuntu you can do a wget :
 		     
-		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
+		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.2/bootstrap.dat
 		
 		
 1. Download the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.1.1).
@@ -33,7 +33,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 
 #### If you have *already* ran the Zeon wallet:
 
-1. Download the [latest bootstrap files](https://github.com/Pubfred/zeon_bootstrap_file/releases/tag/v1.1).
+1. Download the [latest bootstrap files](https://github.com/Pubfred/zeon_bootstrap_file/releases/tag/v1.2).
 1. Find the downloaded *bootstrap.dat* file .
 1. Close and quit the Zeon wallet if it is running.
 1. Navigate to your OS's respective data directory.
@@ -45,7 +45,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 	
 	             1. In ubuntu you can do a wget :
 		     
-		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.1/bootstrap.dat
+		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.2/bootstrap.dat
 		
 1. Remove all files and folders **EXCEPT** for *wallet.dat*, *zeon.conf*, *masternode.conf*, and the `backups/` folder.
    Again, **DO NOT** delete the *wallet.dat* file as it contains the private keys for your funds. 
