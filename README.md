@@ -28,7 +28,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
 		     ~/.zeon# wget https://github.com/Pubfred/zeon_bootstrap_file/releases/download/v1.2/bootstrap.dat
 		
 		
-1. Download the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.1.1).
+1. Download the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.3.1).
 1. Install and run the wallet. Syncing should begin at the bootstrap's last block.
 
 #### If you have *already* ran the Zeon wallet:
@@ -51,7 +51,7 @@ If you have already ran the Zeon wallet before, follow the second set of directi
    Again, **DO NOT** delete the *wallet.dat* file as it contains the private keys for your funds. 
    Deleting this file will result in loss of funds.
 1. Move bootstrap.dat file into the Zeon wallet's data directory that you just removed files from.
-1. If you do not have the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.1.1), download and install it.
+1. If you do not have the [latest Zeon wallet](https://github.com/Pubfred/Zeon_hex/releases/tag/v2.1.3.1), download and install it.
 1. Run the wallet and syncing should begin at the bootstrap's last block.
 
 
